@@ -1,0 +1,5 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="150 50 150 80 120 80" fill="green"/>
+  <line x1="150" x2="150" y1="45" y2="100" stroke="orange" stroke-width="5"/>
+  <path d="M 100 100  H 200 C 180 150, 120 150, 100 100" fill="brown"/>
+</svg>
